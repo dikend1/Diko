@@ -35,6 +35,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="javafx-animation.svg" width="120" alt="JavaFX Animation"/>
+
 </p>
 ## 📊 My Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_GITHUB_НИК&show_icons=true&theme=dark)
